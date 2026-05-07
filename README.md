@@ -561,4 +561,4 @@ SIP-Tracker/
 
 Developed as part of the **Backend and Database Assignment for Fintech Systems**.
 
-GitHub: [venkatakarthikm/SIP-Tracker](https://github.com/venkatakarthikm/SIP-Tracker)
+GitHub: [amaraneniganesh/SIP-Tracker-and-Portfolio-Valuation-System/](https://github.com/amaraneniganesh/SIP-Tracker-and-Portfolio-Valuation-System/)
